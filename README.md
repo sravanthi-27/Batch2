@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## How to Run Frontend
+
+Command to run Frontend:ng serve (or) npm start
+
+## How to Run Backend 
+
+Command to run Backend:node filename.js (For our Project we have to run node server.js)
+
+
